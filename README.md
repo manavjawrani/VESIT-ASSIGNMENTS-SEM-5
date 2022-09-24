@@ -1,6 +1,6 @@
 # SEM-5-Assignments
 
-It Contains Assignements of following subjects:
+It Contains Experiments of following Labs:
 1. CNS Lab
 2. Adv. Devops Labs
 
