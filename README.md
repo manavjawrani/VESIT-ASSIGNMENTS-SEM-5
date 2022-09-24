@@ -5,7 +5,7 @@ It Contains Assignements of following subjects:
 2. Adv. Devops Labs
 
 
-Resources Used
+Resources Used:
 1. CNS Lab 
 
 Used the material posted by madam in google classroom.
@@ -14,5 +14,8 @@ Used the material posted by madam in google classroom.
 
 Used the material posted by sir in google classroom and some external resources
 
+Things to ignore:
+
+Theory written in Adv. Devops 
 
 NOTE - Assignments would be updated prior to due date probably two days before
