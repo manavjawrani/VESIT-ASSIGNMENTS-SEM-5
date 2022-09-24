@@ -2,7 +2,7 @@
 
 It Contains Experiments of following Labs:
 1. CNS Lab
-2. Adv. Devops Labs
+2. Adv. Devops Lab
 
 
 Resources Used:
